@@ -4,25 +4,23 @@
 
 A no-code AI-powered website built using **Wix** to support peer-to-peer **buying, selling, and trading** among university students. This project was created as a practical solution to improve communication and commerce beyond WhatsApp groups.
 
-🔗 **Live Website:** [https://yourname.wixsite.com/Students Market ZM](https://yourname.wixsite.com/studentsmarketzm)  
-*(Note: Replace with your actual site link after publishing)*
+🔗 **Live Website:** https://salimaelton.wixsite.com/student-market-zm
 
 ---
 
 ## 🚀 Project Overview
 
-📦 **Students Market ZM** – University Trading Platform
+📦 **Student Market ZM** – University Trading Platform
 
 A no-code AI-powered website built using **Wix** to support peer-to-peer **buying, selling, and trading** among university students. This project was created as a practical solution to improve communication and commerce beyond WhatsApp groups.
 
-🔗 **Live Website:** [https://yourname.wixsite.com/Students Market ZM](https://yourname.wixsite.com/studentsmarketzm)  
-*(Note: Replace with your actual site link after publishing)*
+🔗 **Live Website:** https://salimaelton.wixsite.com/student-market-zm
 
 ---
 
 ## 🚀 Project Overview
 
-**Students Market ZM** helps students:
+**Student Market ZM** will helps students:
 - Post items for sale or trade (e.g., textbooks, gadgets, clothes)
 - Browse available listings
 - Contact sellers directly
@@ -30,7 +28,7 @@ A no-code AI-powered website built using **Wix** to support peer-to-peer **buyin
 
 ---
 
-## 🧠 Built With
+## 🧠 Built With (future improvements) 
 
 - 💡 **Wix AI** – for automatic layout and content generation
 - 🧱 **Wix Editor** – for manual customization of pages and features
@@ -66,8 +64,8 @@ A no-code AI-powered website built using **Wix** to support peer-to-peer **buyin
 ## 📬 Contact
 
 **Project Owner:** Watiya Elton Salima  
-📧 Email: [your-email@example.com]  
-🔗 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+📧 Email: salimaelton@gmail.com 
+🔗 LinkedIn: http://linkedin/in/watiya-salima-58132a261
 
 ---
 
@@ -116,8 +114,8 @@ A no-code AI-powered website built using **Wix** to support peer-to-peer **buyin
 ## 📬 Contact
 
 **Project Owner:** Watiya Elton Salima  
-📧 Email: [your-email@example.com]  
-🔗 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+📧 Email: salimaelton@gmail.com 
+🔗 LinkedIn: http://linkedin/in/watiya-salima-58132a261
 
 ---
 
